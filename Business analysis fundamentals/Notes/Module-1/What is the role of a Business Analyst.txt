@@ -1,0 +1,90 @@
+So you want to be a business analyst, but do you know what a business
+analyst actually does? If you compare business analyst job
+descriptions from different companies, you'll find they all
+have different content. Why is it that jobs in areas such as
+accounting or marketing have descriptions that are almost identical, but business
+analyst job descriptions are seldom alike? In this video, you'll explore
+the reasons for this difference. Youll also find out about the varied
+skill set a good business analyst or BA should have. A general description of a BA's job is
+that they act as an intermediary between the business stakeholders and
+the solution providers. For example, a business analyst
+at an e commerce company acts as an intermediary between
+the marketing team, business stakeholders who want to
+understand customer behaviour better, and the IT department solution providers
+who can provide the necessary data. The business goal in this case is to
+improve their marketing efforts based on customer behavior. The business analyst ensures this goal
+is understood by the IT department and works with them to develop a solution, perhaps a new report that provides
+detailed insights into customer behavior. But this is just the beginning. Business analysts are also responsible for analyzing the impacts of the proposed
+solution and pinpointing the risks the solution may pose to existing or
+future business operations. For example, a pharmaceutical company
+intended to use an external organization to confirm whether their clients were
+registered healthcare professionals. The BA pin pointed that the proposal could
+mean a breach of data protection laws and could result in fines unless
+explicit permission to do so was given by the clients. In the real world, a business analyst
+often has different roles and combines aspects of various specialties. The exact role can depend
+on the project context. The skills of a BA can be deployed in
+different contexts or areas of business, such as problem identification, process
+improvement, application development, financial performance improvement,
+and risk management. In a once bustling retail company,
+sales continue to decline. A business analyst conducts a problem
+identification analysis within the sales process and
+uncovers a glaring efficiency issue. Staff take orders on the phone,
+manually write them on paper, and then laboriously enter them
+into the computer system. This highly inefficient process
+led to numerous errors and missed orders, driving customers away. As a solution, the BA proposes
+a process improvement to develop an online ordering system
+to eradicate manual entry. Embracing the recommendation, the company
+started application development and swiftly implemented online ordering. With orders now seamlessly processed
+online, accuracy soared, and the company regained its competitive edge. For example, an IT business analyst
+working on a project involving application development may be required
+to identify business objectives, gather business requirements
+from various stakeholders, and translate them into a format
+required by the development team. For example, a business requirement could
+be a request for a new sales report. The translation the BA must make is
+to ensure that the development team needs to know exactly what data must
+appear in this report and in what order. In addition, they will ensure the final
+report format includes proper report titles and headings and correct it
+permissions for those who need to view it. On a business improvement project where
+the goal is to enhance the efficiency and effectiveness of the existing process, a business analyst may have
+to create process models, identify process bottlenecks and
+recommend changes to the current workflow. Consider a scenario where a company
+faces delays in claim settlement, resulting in dissatisfied
+clients waiting weeks for their applications to be processed and
+claims to be paid out. However, the root cause of the issue
+may not be immediately apparent. Its only when you meticulously trace
+the claim process one step at a time, that the bottleneck becomes evident. Upon closer examination, you discover
+the culprit, a mistake in the workflow. By removing a duplicate
+payment approval step, the claim settlement turnaround
+time is slashed in half, a swift resolution to client concerns and
+enhanced process efficiency. As a business analyst, you may also be
+responsible for identifying potential risks related to implementing process
+changes and assessing the impact of proposed changes on the current workforce,
+technology and customer experience. On a compliance project, such as
+implementing data protection legislation or changes to import or
+export regulations, you would have to understand
+the relevant regulatory frameworks, industry standards, and internal
+policies the organization must follow. Then, you will have to identify
+the changes to products, processes, technology or data the organization needs
+to implement to achieve this compliance. And that's only part of the story, different industries have distinct
+processes, regulations, and challenges. As a result, a business analyst
+working in finance may require a very different focus compared to the same
+job in the pharmaceutical industry. Organization size also matters, working
+as a BA for an international corporation, you need a broad perspective and
+a deeper understanding of global business dynamics than working for
+a smaller local business. In a larger organization,
+you face more complex technologies, extensive data, stricter protocols and
+cross country regulations. Your colleagues or stakeholders may be
+located in different geographic areas and different time zones,
+speak other languages, and represent a different culture. You may be beginning to understand that
+the business analyst role is varied, dynamic, and exciting. No two roles are precisely the same. Even within the same company, the
+requirements are continuously changing. Evolving customer expectations,
+market shifts and technological advances, require business analysts to stay
+updated with industry trends, emerging technologies, and the latest BA
+tools, techniques, and best practices. All these factors have an impact
+on a job description for a BA and the set of skills that
+are required of the analyst. An experienced business analyst
+is often compared to a multitool. A versatile person equipped with
+an array of business analysis tools and techniques and able to handle a wide
+range of tasks or challenges. Each tool serves a unique purpose and
+you will learn the role of each tool and how and when to use it. This will give you the confidence to
+tackle a multitude of problems in the ever evolving world of business analysis.

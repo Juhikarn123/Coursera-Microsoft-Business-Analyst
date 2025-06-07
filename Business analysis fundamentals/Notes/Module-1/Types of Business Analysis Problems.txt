@@ -1,0 +1,88 @@
+You might wonder, when do businesses need to call
+upon a business analyst? What types of problems require business
+analyst involvement? Well, the answer is they
+are needed quite often. Business analysts usually have an extensive range of
+skills and expertise. That's why they can
+tackle a wide range of business problems from
+operational efficiency and process improvement
+through strategic analysis to documenting requirements for a new application development. BA may have a responsibility to identify the root
+cause of the problem, analyze large volumes of data, and help develop a solution that meets the needs
+of the organization. Let's explore some of the diverse problems a business analyst
+can help to solve. One example is
+operational efficiency. Operational efficiency is all about optimizing
+business processes, reducing operating expenses, and running the organization
+like a well-oiled machine. A practical example of operational efficiency would
+be reducing production time. Business analysts
+study workflows, identify bottlenecks, and
+suggest improvements. The solutions might
+involve implementing new technologies like
+robotic process automation, revising standard
+operating procedures, or reorganizing teams. To improve customer
+satisfaction, stop customers from leaving, and encourage repeat sales, a business analyst may be called upon to analyze
+customer feedback, understand pain points, and identify areas
+for improvement. They may use user
+experience tools and techniques to visualize the entire customer experience from awareness to
+post-purchase support. To make good decisions, business executives
+need good data and meaningful
+management reports. Business analysts are
+often called upon to gather business requirements
+related to data and reporting and work with
+various stakeholders on designing and implementing practical management
+reporting solutions. They often play a
+role in selecting appropriate key
+performance indicators, known as KPIs, and
+visualizations, such as graphs and charts to ensure that
+management reports and dashboards
+effectively communicate business and market insights. BAs often need to conduct a feasibility study and complete a business case before
+starting a project. During a feasibility assessment, a business analyst evaluates the costs and benefits of
+the proposed solutions, the expected return
+on investment, and the expected
+payback period outlines solution impacts and
+potential risks, and examines the overall
+project's alignment with the organization's
+strategic objectives. They present their
+assessment results in the business
+case subsequently used by decision-makers to give the project the go-ahead or not. In projects that require a
+new application development, for instance, a bank planning to launch a new
+mobile banking app, a business analyst gathers and documents business
+requirements, resolves conflicting
+requests, and translates vague ideas into
+clear specifications for the development team. They also define
+data requirements, help develop test cases, and participate in user
+acceptance testing, known as UAT, to ensure that systems meet
+specified requirements. Business analysts may
+also help analyze vendor proposals and ensure that the proposed solution can
+deliver the expected outcomes. In compliance
+projects, for example, in a pharmaceutical company planning to launch a new drug, a business analyst would analyze existing
+processes and data, identify compliance gaps
+related to FDA regulations, and propose solutions to meet
+these legal requirements. Their role may also
+involve collaborating with stakeholders to
+implement changes and create audit documentation. Let's look at a specific
+example, Brexit. For those of you who don't know, Brexit was a code
+name for a project involving the United
+Kingdom's exit from the European Union. Brexit, although not
+a compliance project, had a significant impact on compliance in the financial
+services industry. Many British insurance companies with long-established
+presence in the EU found
+themselves navigating complex compliance
+challenges post-withdrawal. Here's where a business
+analyst proved useful. They had to figure out
+not only the impact of the legislative changes, new data protection rules, and licensing requirements, but also recommend the
+changes to products, processes, data, and
+organization structure, all against a ticking clock. Not an easy task.
+Business analysts are the unsung heroes who help businesses navigate
+exciting challenges. They take on a diverse range of tasks from transforming
+abstract ideas into concrete requirements to
+guiding organizations through the
+ever-evolving landscape of regulations and
+internal changes. With their expertise, BAs play
+a crucial role in charting a course for success even in the unmapped areas of
+business development. Business analysts have a diverse range of
+responsibilities, such as converting ambiguous concepts into
+specific requirements, managing the complexities
+of organizational change, navigating regulatory
+requirements, and quietly supporting the business
+in uncertain situations. By carefully analyzing
+and interpreting data, BAs play a vital role in steering the organization
+towards success.
